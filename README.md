@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Majd Fawallha
 - 👀 I’m interested in Web Development
-- ![image](https://github.com/MajdFawallha/MajdFawallha/assets/130993805/f7adee6e-5913-44ef-b30e-0814d5ad8d2e) Palestine - Ramallah
+- ![image](https://github.com/MajdFawallha/MajdFawallha/assets/130993805/d2a0b188-c757-4050-8718-314ef02e5c0e)Palestine - Ramallah
 - 🎓 Computer engineering student at Birzeit University
 - 📫 How to reach me mfawallha@gmail.com
   
