@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Majd Fawallha
 - 👀 I’m interested in Web Development
-- 🎓 Computer engineering student at Birzeit University
+- 🎓 Computer engineering
 - 📫 How to reach me mfawallha@gmail.com
   
 
